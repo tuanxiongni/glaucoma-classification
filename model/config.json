@@ -1,0 +1,5 @@
+{
+  "backbone": "efficientnet_b4",
+  "img_size": 380,
+  "dropout": 0.3
+}

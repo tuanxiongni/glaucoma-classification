@@ -1,0 +1,9 @@
+torch==2.10.0
+torchvision==0.25.0
+numpy
+pandas
+scikit-learn
+Pillow
+albumentations
+opencv-python
+tqdm

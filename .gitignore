@@ -1,0 +1,22 @@
+# ---- secret / temp deploy scripts (contain server credentials) ----
+upload_setup.py
+deploy_log.txt
+.deploy_tmp.py
+.deploy_upload.py
+.run_remote.py
+.*.sh
+.wheels/
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- model weights & outputs (large / generated) ----
+*.pth
+*.pt
+*.ckpt
+results/
+*.log
